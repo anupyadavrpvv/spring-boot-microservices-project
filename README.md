@@ -13,5 +13,5 @@ This project is a microservices project which has following services::::
 - programming language : Java 17
 - framework : spring boot
 - databases : mongodb, MySQL
-- other tools : docker, zinpin, KeyCloack, resilience4j
+- other tools : docker, zipkin, KeyCloack, resilience4j
 
