@@ -1,8 +1,13 @@
 # spring-boot-microservices-project
-#### Rock-Paper-Scissors-Game
 
-This project is based on Java Spring boot which is application to 
-play game rock-paper-scissors
+This project is a microservices project which has following services::::
+
+discovery-server : which is server on which all services gets registered
+api-gateway : a common gateway for all other services
+product-service 
+order-service
+inventory-service
+notification-service
 
 #### Technology used
 - programming language : Java 17
